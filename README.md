@@ -1,6 +1,5 @@
 # 💫 About Me:
-A BScHons IT (Robotics) student trying to be a jack-of-all-trades.<br><br>I am attempting to re-learn Robotics to cement my place in the robot war. 
-My Tech Stack is comprised of technologies I have experienced but not yet mastered. 
+A BScHons IT (Robotics) student trying to be a jack-of-all-trades.<br><br>I am attempting to re-learn Robotics to cement my place in the robot war. <br><br>My Tech Stack is comprised of technologies I have dabbled in, not yet mastered, and a point of interest. 
 
 
 ## 🌐 Socials:
